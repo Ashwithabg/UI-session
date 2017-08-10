@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#page-header{
+	padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+aside {
+    float: left;
+    max-width: 160px;
+    margin: 20px;
+    padding: 1em;
+}
+
+article {
+    margin-left: 170px;
+    padding: 1em;
+    overflow: hidden;
+    border-left: 1px solid gray;
+    float: right;
+}
+
+li{
+	padding: 2px;
+}
+
+footer{
+	padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
